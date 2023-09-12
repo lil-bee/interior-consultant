@@ -1,0 +1,21 @@
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	color: #bdbdbd;
+	font-family: var(--font-desc);
+	text-align: center;
+	font-size: 14px;
+	margin-top: auto;
+	font-weight: 500;
+}
+
+.footer a {
+	color: #bdbdbd;
+
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	text-decoration-line: underline;
+}

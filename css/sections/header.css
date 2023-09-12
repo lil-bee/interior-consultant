@@ -1,0 +1,28 @@
+.header__nav {
+	display: flex;
+	overflow: hidden;
+	color: #fff;
+	justify-content: space-between;
+	align-items: center;
+	padding: 42px 77px;
+	width: 100%;
+}
+
+.header__logo {
+	margin-right: auto;
+
+	font-family: var(--font-logo);
+}
+
+.header__logo a {
+	text-transform: uppercase;
+	padding: 8px 8px;
+	border: 1px solid #fff;
+}
+
+.header__menu {
+	display: flex;
+	gap: 86px;
+	list-style: none;
+	font-family: var(--font-desc);
+}
