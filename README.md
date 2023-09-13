@@ -62,7 +62,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Fluid Typography with clamp]((https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
+- [Fluid Typography with clamp](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
 - [Learn CSS Media Queries (mobile-first vs desktop-first) through practical tasks](https://devchallenges.io/learn/tutorial/media-queries)
 - [Animate a Website using CSS (transition, transform, keyframes, animation) | CSS Tutorial](https://devchallenges.io/learn/tutorial/css-animation)
 
